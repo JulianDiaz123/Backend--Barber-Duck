@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\producto\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\producto\\dto\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\turno\\dto\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\turno\\dto\\turnodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\turno\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\turno\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\turno\\dto\\turnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\turno\\dto\\turnosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Downloads\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Migrations\\20241113011102_conection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\servicio\\dto\\serviciosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\servicio\\dto\\serviciosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\servicio\\dto\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\servicio\\dto\\serviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\servicio\\dto\\createserviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\servicio\\dto\\createserviciodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\models\\servicio\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\models\\servicio\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|c:\\users\\usuario\\desktop\\facultad\\labo4\\trabajo final\\barber-duck\\peluqueriaapi\\peluqueriaapi\\peluqueriaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{379CDFB1-D895-49BB-B503-FEED43347370}|PeluqueriaApi\\PeluqueriaApi.csproj|solutionrelative:peluqueriaapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Producto\\Dto\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Producto\\Dto\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Producto\\Dto\\ProductoDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Producto\\Dto\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:01:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TurnoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Dto\\TurnoDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Turno\\Dto\\TurnoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Dto\\TurnoDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Turno\\Dto\\TurnoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:29:30.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241113011102_conection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Migrations\\20241113011102_conection.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Downloads\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Migrations\\20241113011102_conection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Migrations\\20241113011102_conection.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Downloads\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Migrations\\20241113011102_conection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:11:02.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TurnosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Dto\\TurnosDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Turno\\Dto\\TurnosDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Dto\\TurnosDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Turno\\Dto\\TurnosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:45:28.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Turno.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Turno\\Turno.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Turno\\Turno.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Turno\\Turno.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:45:02.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiciosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\ServiciosDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Servicio\\Dto\\ServiciosDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\ServiciosDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Servicio\\Dto\\ServiciosDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:43:24.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ServicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\ServicioDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Servicio\\Dto\\ServicioDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\ServicioDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Servicio\\Dto\\ServicioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:43:19.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateServicioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\CreateServicioDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Servicio\\Dto\\CreateServicioDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Dto\\CreateServicioDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Servicio\\Dto\\CreateServicioDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:43:13.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Servicio.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Servicio\\Servicio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Servicio\\Servicio.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Servicio\\Servicio.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:42:59.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:10:01.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:58:33.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\appsettings.json",
+              "RelativeToolTip": "PeluqueriaApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-12T07:36:26.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Services\\AuthServices.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Services\\AuthServices.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:35:10.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "PeluqueriaApi\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Facultad\\labo4\\trabajo final\\Barber-Duck\\PeluqueriaApi\\PeluqueriaApi\\PeluqueriaApi\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "RelativeToolTip": "PeluqueriaApi\\Models\\Auth\\Dto\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:35:10.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
